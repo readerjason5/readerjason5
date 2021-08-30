@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @readerjason5
 - 👀 I’m interested in learning more about computer science and buidling a portfolio of work
-- 🌱 I’m currently learning Python and brushing up on SQL
+- 🌱 I’m currently working to become a front-end develeoper
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me @ reader.jason5@gmail.com
 
